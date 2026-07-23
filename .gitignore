@@ -1,15 +1,44 @@
+# Ambiente Python
 .venv/
 venv/
 __pycache__/
 *.py[cod]
+*$py.class
 *.egg-info/
+.eggs/
+*.egg
+
+# Build e distribuição (PyInstaller)
 dist/
 build/
 *.spec
+*.exe
+ValidacaoXML*.zip
+
+# Testes e qualidade de código
 .pytest_cache/
 .mypy_cache/
 .ruff_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Logs e arquivos do sistema
 *.log
 .DS_Store
 Thumbs.db
-exemplos/
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# XMLs reais com dados pessoais/acadêmicos — uso local apenas
+/exemplos/
+
+# Segredos e configuração local
+.env
+.env.*
+!.env.example
