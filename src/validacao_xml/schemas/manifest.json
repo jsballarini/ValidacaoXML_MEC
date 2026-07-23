@@ -1,0 +1,111 @@
+{
+  "schema_version": "v1.05",
+  "updated_at": "2026-07-22",
+  "source": "https://www.gov.br/mec/pt-br/diploma-digital/documentos",
+  "files": [
+    {
+      "filename": "DiplomaDigital_v1.05.xsd",
+      "slug": "diplomadigital_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/diplomadigital_v1-05.xsd/@@download/file/DiplomaDigital_v1.05.xsd",
+      "sha256": "ee90800e7a9170af654a1da599a894dddab017a7fe26b6de9011b51be71d9507",
+      "primary": true,
+      "root_element": "Diploma"
+    },
+    {
+      "filename": "DocumentacaoAcademicaRegistroDiplomaDigital_v1.05.xsd",
+      "slug": "documentacaoacademicaregistrodiplomadigital_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/documentacaoacademicaregistrodiplomadigital_v1-05.xsd/@@download/file/DocumentacaoAcademicaRegistroDiplomaDigital_v1.05.xsd",
+      "sha256": "fc438245ee634dcfc82da894be7c604a1603d5dbc160b984375bf61bd6e93825",
+      "primary": true,
+      "root_element": "DocumentacaoAcademicaRegistro"
+    },
+    {
+      "filename": "HistoricoEscolarDigital_v1.05.xsd",
+      "slug": "historicoescolardigital_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/historicoescolardigital_v1-05.xsd/@@download/file/HistoricoEscolarDigital_v1.05.xsd",
+      "sha256": "0b560f4373a0aaf87811d153ba7c2da73feb692b35022e4592aeac85393f7283",
+      "primary": true,
+      "root_element": "HistoricoEscolar"
+    },
+    {
+      "filename": "CurriculoEscolarDigital_v1.05.xsd",
+      "slug": "curriculoescolardigital_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/curriculoescolardigital_v1-05.xsd/@@download/file/CurriculoEscolarDigital_v1.05.xsd",
+      "sha256": "5184a84f6006c100820ce52938e24684326e334142ba060d202b4b41f21195a4",
+      "primary": true,
+      "root_element": "CurriculoEscolar"
+    },
+    {
+      "filename": "ListaDiplomasAnulados_v1.05.xsd",
+      "slug": "listadiplomasanulados_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/listadiplomasanulados_v1-05.xsd/@@download/file/ListaDiplomasAnulados_v1.05.xsd",
+      "sha256": "188a80442e1208f5de5d836c011b7d8615b85515a6ea95c780dd65f28db7a2a9",
+      "primary": true,
+      "root_element": "ListaDiplomasAnulados"
+    },
+    {
+      "filename": "ArquivoFiscalizacao_v1.05.xsd",
+      "slug": "arquivofiscalizacao_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/arquivofiscalizacao_v1-05.xsd/@@download/file/ArquivoFiscalizacao_v1.05.xsd",
+      "sha256": "111733fce5c2295c05fe8ae88426f2e0b2eb3b0143a9491c617737ab5c34551e",
+      "primary": true,
+      "root_element": "ArquivoFiscalizacao"
+    },
+    {
+      "filename": "tiposBasicos_v1.05.xsd",
+      "slug": "tiposbasicos_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/tiposbasicos_v1-05.xsd/@@download/file/tiposBasicos_v1.05.xsd",
+      "sha256": "58777b9c120ff9c0ec3fe2264a4eb5b3c52734b2b1c8213db603f8a166ca828d",
+      "primary": false
+    },
+    {
+      "filename": "leiauteDiplomaDigital_v1.05.xsd",
+      "slug": "leiautediplomadigital_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/leiautediplomadigital_v1-05.xsd/@@download/file/leiauteDiplomaDigital_v1.05.xsd",
+      "sha256": "931387a8bcc36b7ccfaaac2473cb35d93518977b77a610602ca8845c1d7e3cc3",
+      "primary": false
+    },
+    {
+      "filename": "leiauteDocumentacaoAcademicaRegistroDiplomaDigital_v1.05.xsd",
+      "slug": "leiautedocumentacaoacademicaregistrodiplomadigital_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/leiautedocumentacaoacademicaregistrodiplomadigital_v1-05.xsd/@@download/file/leiauteDocumentacaoAcademicaRegistroDiplomaDigital_v1.05.xsd",
+      "sha256": "950108bcbe46903755e06fffc205892cdcd81134f724ed930716f338a27abd0a",
+      "primary": false
+    },
+    {
+      "filename": "leiauteHistoricoEscolar_v1.05.xsd",
+      "slug": "leiautehistoricoescolar_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/leiautehistoricoescolar_v1-05.xsd/@@download/file/leiauteHistoricoEscolar_v1.05.xsd",
+      "sha256": "a91828970219878932774d133588e9ead7e17d6e9afd43d9bad2523467f690b7",
+      "primary": false
+    },
+    {
+      "filename": "leiauteListaDiplomasAnulados_v1.05.xsd",
+      "slug": "leiautelistadiplomasanulados_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/leiautelistadiplomasanulados_v1-05.xsd/@@download/file/leiauteListaDiplomasAnulados_v1.05.xsd",
+      "sha256": "31501e2f77b50ca67b39de1f18e927d5cac83da0600a011fd701e1f078da3f7f",
+      "primary": false
+    },
+    {
+      "filename": "leiauteArquivoFiscalizacao_v1.05.xsd",
+      "slug": "leiautearquivofiscalizacao_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/leiautearquivofiscalizacao_v1-05.xsd/@@download/file/leiauteArquivoFiscalizacao_v1.05.xsd",
+      "sha256": "ab8ad9ee17eee51ed8971ea5eae1f13e356555ddc165be245ec1b234e974beb2",
+      "primary": false
+    },
+    {
+      "filename": "leiauteCurriculoEscolar_v1.05.xsd",
+      "slug": "leiautecurriculoescolar_v1-05.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/leiautecurriculoescolar_v1-05.xsd/@@download/file/leiauteCurriculoEscolar_v1.05.xsd",
+      "sha256": "15f3e5c92aae134fdc9067b1535ef90ae91f9260876d48e0a97a4c92d82f3157",
+      "primary": false
+    },
+    {
+      "filename": "xmldsig-core-schema_v1.1.xsd",
+      "slug": "xmldsig-core-schema_v1-1.xsd",
+      "url": "https://www.gov.br/mec/pt-br/diploma-digital/documentos/xmldsig-core-schema_v1-1.xsd/@@download/file/xmldsig-core-schema_v1.1.xsd",
+      "sha256": "192318ca9abef65b418a31ae1d6fc786315716f638f382a2ec101a5ac2e0f9ce",
+      "primary": false
+    }
+  ]
+}

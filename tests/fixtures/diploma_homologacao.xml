@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diploma xmlns="https://portal.mec.gov.br/diplomadigital/arquivos-em-xsd">
+  <infDiploma versao="v1.05" id="VDip12345678901234567890123456789012345678901234" ambiente="Homologação">
+    <Diplomado>
+      <ID>123</ID>
+      <Nome>Aluno Teste</Nome>
+    </Diplomado>
+  </infDiploma>
+</Diploma>
