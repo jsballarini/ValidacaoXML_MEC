@@ -13,7 +13,6 @@ dist/
 build/
 *.spec
 *.exe
-ValidacaoXML*.zip
 
 # Testes e qualidade de código
 .pytest_cache/
