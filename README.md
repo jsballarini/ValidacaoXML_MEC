@@ -11,6 +11,8 @@ O validador combina verificação estrutural (XSD), regras de negócio da instru
 ![Tela do ValidacaoXML — relatório de validação de Histórico Escolar Digital](docs/ValidacaoXML.png)
 
 > **Aviso:** este é um projeto independente, desenvolvido pela comunidade. Não é um produto oficial do MEC nem substitui o [verificador online do governo](https://verificadordiplomadigital.mec.gov.br/diploma).
+>
+> **Estabilidade:** o aplicativo está em versão inicial (**v0.1.0**) e **não foi amplamente testado** em produção. Podem ocorrer falhas, resultados incorretos ou comportamentos inesperados. Use como ferramenta de apoio à validação e confirme resultados críticos com o verificador oficial do MEC ou com testes adicionais antes de decisões que tenham impacto jurídico ou operacional.
 
 > **Só quer usar o app?** Na raiz do repositório há o [`ValidacaoXML_0.1.0.zip`](ValidacaoXML_0.1.0.zip) com o executável Windows — basta extrair e abrir `ValidacaoXML.exe`, sem instalar Python. Veja [Uso rápido](#uso-rápido-somente-executável).
 
@@ -135,6 +137,8 @@ Para quem **apenas quer usar o aplicativo** — sem clonar o repositório, insta
 3. Execute `ValidacaoXML.exe`.
 
 Não é necessário Python nem instalação adicional. Na primeira execução, o app cria o cache de esquemas XSD em `%LOCALAPPDATA%\Perseus\ValidacaoXML\schemas\`.
+
+> Este é um software em estágio inicial: **não foi amplamente testado** e podem ocorrer falhas. Em caso de dúvida sobre um resultado, valide também no [verificador online do MEC](https://verificadordiplomadigital.mec.gov.br/diploma) ou abra uma issue no repositório.
 
 > O Windows pode exibir aviso de “aplicativo desconhecido” em executáveis não assinados. Use **Mais informações → Executar assim mesmo** se confiar na origem do arquivo.
 
